@@ -1,5 +1,4 @@
 ---
-title: TEST
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/17467586.2011.575170'
 citation: 'Phayal, A., 2011. Cost of violence and the peaceful way out: A comparison of the Provisional Irish Republican Army and the Communist Party of Nepal (Maoists). Dynamics of Asymmetric Conflict, 4(1), pp.1-20.'
 ---
