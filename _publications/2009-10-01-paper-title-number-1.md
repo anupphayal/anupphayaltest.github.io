@@ -1,15 +1,7 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/17467586.2011.575170'
+citation: 'Phayal, A., 2011. Cost of violence and the peaceful way out: A comparison of the Provisional Irish Republican Army and the Communist Party of Nepal (Maoists). Dynamics of Asymmetric Conflict, 4(1), pp.1-20.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Anup_Phayal/publication/233070516_Cost_of_violence_and_the_peaceful_way_out_A_comparison_of_the_Provisional_Irish_Republican_Army_and_the_Communist_Party_of_Nepal_Maoists/links/5c71f8dea6fdcc471595ff3f/Cost-of-violence-and-the-peaceful-way-out-A-comparison-of-the-Provisional-Irish-Republican-Army-and-the-Communist-Party-of-Nepal-Maoists.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
